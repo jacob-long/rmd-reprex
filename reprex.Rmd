@@ -1,0 +1,22 @@
+---
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    template: "./cv-simple.tex"
+    keep_tex: true
+
+name: "Writing W. Writer"
+address: "Address"
+email: "email"
+github: "gitty-git"
+website: "web.com"
+---
+
+# Heading
+
+## Subheading
+
+# Heading 2
+
+easdfasdf
+
